@@ -1,0 +1,37 @@
+
+isset($myVar) : verify si 1 variable est d"fini/délcaré ou pas
+
+-> renvoie true/false
+
+
+ce qu'on tappe dans le champs = ce qu'on écrit ds value="pierre"
+Si l'internaute saisi "nga", ça  va écraser la valeur par default
+
+lorsqu'on click sur "accueil" -> affcihe ds barre d'adres :
+
+http://localhost/index.php?menu=acceuil
+
+veut dire : on vient de créer l'indice "menu" pour le tableau $_GET ,
+
+<?php if(isset($_GET["menu"])===false ||$_GET["menu"]==="accueil"){ ?>
+
+veut dire: vérifier si $_GET["menu"])===false ( menu n'est pas défini ou déclaré ds la barre d'address
+
+
+au debut il faut toujours tester la clause "false" car l'internaute ne sait jamais
+quelle page il faut aller , donc c'est normal que c'est "false" , grace à la 2è condition , on va enmener l'internaut vers la page d'accueil . Depuis la page d'accueil , il peut aller où il veut grace auw menus <nav></nav>
+
+comparaison OU (||) : soit l'un soit l'autre
+
+ * si la 1ère condition est vrai par rapport à la question , il exécute le code demandé
+    (pas besoin de vérifier la 2è condition)
+ * si la 1ère condition n'est pas vrai rapport à la question,il vérifie la 2è condition.
+
+     * Si la 2è est vrai rapport à la question, il exécute le code demandé.
+     * Sinon il affiche une erreur
+
+
+comparaison ET (&&) :l'un et l'autre,les 2 soient vérifiés
+
+*  si toutes les 2 conditions sont vrai par rapport à la question , il exécute le code demandé
+* Si la 1ère condition n'est pas vrai, il affiche tout suite un erreur ( sans besoin vérifier la 2è condition)

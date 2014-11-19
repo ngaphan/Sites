@@ -1,0 +1,59 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    background: url('background/bg66.gif') ;
+    opacity: 1;
+}
+
+section
+{
+    margin: 1rem 5rem;
+}
+
+h1,h2,footer
+{
+    text-align: center;
+}
+h1,h2
+{
+    color: #c82b6d;
+}
+
+h2
+ {
+     color: #18d119;
+    font-size: 5rem;
+ }
+
+header
+{
+    background:url('background/bg68.gif') ;
+}
+
+.portfolio
+{
+  width: 80%;
+    margin: 0 auto;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: red;
+    font-weight: bold;
+}
+
+label
+{
+    display: inline-block;
+    width: 10rem;
+}

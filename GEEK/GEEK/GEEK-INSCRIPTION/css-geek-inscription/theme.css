@@ -1,0 +1,48 @@
+body{
+
+	background: url(../background/bg8.gif) ;	
+}
+
+header{
+	background: linear-gradient(
+									rgba(0,255,0,0.5),
+									rgba(159,232,85,0.5)
+								);
+}
+
+.coordonnees input[type="submit"] {		
+		background: #33FF00 ;		
+}
+
+h1 {	
+	color: #054175;
+}
+
+a,h4{
+	color:#2F4F4F;
+}
+a:hover ,  h4:hover , .nav-footer a:hover{
+	    color: #0000FF;	  
+}
+
+p {	
+	color:#000009;
+}
+
+.photo_tycon img {    	
+    border-color:  #181818;	
+}
+
+.CV-auteur { 	    
+	    background-color: #D3D3D3;	        
+	    color: black;/*police*/
+}
+
+.nav-footer a {		    
+	    color: #2F4F4F;			
+}
+
+
+
+
+

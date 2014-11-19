@@ -1,0 +1,29 @@
+body
+{
+	width:800px;
+	text-align:left;
+	margin:auto;
+}
+.all
+{
+	width:800px;
+	text-align:left;
+}
+
+h1,h3 
+{
+	text-align:center;
+}
+h3
+{
+	background-color:#008080;
+	color:white;
+	font-size:0,9em;
+	margin-bottom:0px;
+}
+
+a
+{
+text-decoration:none;
+
+}

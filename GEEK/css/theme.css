@@ -1,0 +1,43 @@
+body{
+
+	background: rgba(206,	206,	206, 0.5 ) ;
+}
+
+header{
+	background: rgba(0, 255, 255, 1.5) ;									
+}
+
+.coordonnees input[type="submit"] {		
+		background: #C2F732 ;		
+}
+
+h1 {	
+	color: #054175;
+}
+
+a,h4{
+	color:#2F4F4F;
+}
+a:hover ,  h4:hover , .nav-footer a:hover{
+	    color: #0000FF;	  
+}
+
+p {	
+	color:#000009;
+}
+
+.photo_tycon img {    	
+    border-color:  #181818;	
+}
+
+.CV-auteur { 	    
+	    background-color: #D3D3D3;	        
+	    color: black;/*police*/
+}
+
+
+
+
+
+
+

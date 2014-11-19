@@ -1,0 +1,25 @@
+
+body {
+		width:100%;
+		margin: 0 auto;	
+			
+}
+
+#header{
+		padding:  0;
+		overflow: hidden;
+}
+
+#title-site {
+		width:30%;
+		float:left;
+		text-align: center;
+}
+
+footer {
+	width: 100% ;
+	margin: 2rem auto ;
+}
+
+
+

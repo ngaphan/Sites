@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0264706-452a-4f5c-93ad-bd9a9c1515de" name="Default" comment="" />
+    <ignored path="sites.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ajax_jquery/css/main.css" />
+        <option value="$PROJECT_DIR$/ajax_jquery/js/main_jquery.js" />
+        <option value="$PROJECT_DIR$/address-book/address-book.html" />
+        <option value="$PROJECT_DIR$/addressBook_jquery/address-book.html" />
+        <option value="$PROJECT_DIR$/addressBook_jquery/js/utilities.js" />
+        <option value="$PROJECT_DIR$/addressBook_jquery/js/address-book.js" />
+        <option value="$PROJECT_DIR$/addressBook_jquery - Copie/js/address-book.js" />
+        <option value="$PROJECT_DIR$/ajax_jquery/test_jquery.html" />
+        <option value="$PROJECT_DIR$/addressBook_jquery - Copie/address-book.html" />
+        <option value="$PROJECT_DIR$/chat/coursChat" />
+        <option value="$PROJECT_DIR$/chat/api/dbconnect.php" />
+        <option value="$PROJECT_DIR$/tchat/APP/top.html" />
+        <option value="$PROJECT_DIR$/Tchat2/APP/top.phtml" />
+        <option value="$PROJECT_DIR$/Tchat2/dbconnect.php" />
+        <option value="$PROJECT_DIR$/Tchat2/library/SQLQueryManager.class.php" />
+        <option value="$PROJECT_DIR$/Tchat2/controller/controller.php" />
+        <option value="$PROJECT_DIR$/Tchat2/APP/index.html" />
+        <option value="$PROJECT_DIR$/Tchat2/model/CustomerModel.class.php" />
+        <option value="$PROJECT_DIR$/Tchat2/model/ProductModel.class.php" />
+        <option value="$PROJECT_DIR$/Tchat2/API/index.php" />
+        <option value="$PROJECT_DIR$/Tchat/APP/index.html" />
+        <option value="$PROJECT_DIR$/Tchat/APP/shop.phtml" />
+        <option value="$PROJECT_DIR$/Tchat/API/controller/controller.php" />
+        <option value="$PROJECT_DIR$/Tchat/APP/administration.phtml" />
+        <option value="$PROJECT_DIR$/Tchat/API/index.php" />
+        <option value="$PROJECT_DIR$/tchat/APP/administration.html" />
+        <option value="$PROJECT_DIR$/tchat/APP/bottom.html" />
+        <option value="$PROJECT_DIR$/tchat/APP/shop.html" />
+        <option value="$PROJECT_DIR$/tchat/API/library/Model.class.php" />
+        <option value="$PROJECT_DIR$/tchat/API/model/MessageModel.class.php" />
+        <option value="$PROJECT_DIR$/tchat/APP/signup.html" />
+        <option value="$PROJECT_DIR$/tchat/test.php" />
+        <option value="$PROJECT_DIR$/tchat/API/index.php" />
+        <option value="$PROJECT_DIR$/ajax_jquery/coursAjax_Jquery.php" />
+        <option value="$PROJECT_DIR$/ajax_jquery/coursAjax.js" />
+        <option value="$PROJECT_DIR$/ajax_jquery/ajax_codeIvan.php" />
+        <option value="$PROJECT_DIR$/ajax_jquery/ajax_codeIvan.js" />
+        <option value="$PROJECT_DIR$/tchat/API/dbconnect.php" />
+        <option value="$PROJECT_DIR$/tchat/APP/css/main.css" />
+        <option value="$PROJECT_DIR$/tchat/API/controller/controller.php" />
+        <option value="$PROJECT_DIR$/tchat/API/model/UserModel.class.php" />
+        <option value="$PROJECT_DIR$/tchat/APP/index.html" />
+        <option value="$PROJECT_DIR$/Tchat/APP/index.htm" />
+        <option value="$PROJECT_DIR$/Tchat/API/controller/mainController.php" />
+        <option value="$PROJECT_DIR$/Tchat/APP/js/main.js" />
+        <option value="$PROJECT_DIR$/tchat/APP/js/main.js" />
+        <option value="$PROJECT_DIR$/tchat/ajaxCours.txt" />
+        <option value="$PROJECT_DIR$/symfony/Cours-master/Namespaces/vendor/AnotherLibrary/AmazingClass.php" />
+        <option value="$PROJECT_DIR$/symfony/Cours-master/Namespaces/index.php" />
+        <option value="$PROJECT_DIR$/symfony/Cours-master/Namespaces/vendor/OneLibrary/AmazingClass.php" />
+        <option value="$PROJECT_DIR$/symfony/courssymfony.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="472" />
+    <option name="width" value="1195" />
+    <option name="height" value="968" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Ini Files</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probably bugPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+    <entry key="duplicate line">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.general" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myFirstSymfoProject" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/symfony" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ajax_jquery" />
+      <recent name="$PROJECT_DIR$/tchat/APP/js" />
+      <recent name="$PROJECT_DIR$/tchat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ZIP" />
+      <recent name="$PROJECT_DIR$/symfony" />
+      <recent name="$PROJECT_DIR$/Tchat2/API" />
+      <recent name="$PROJECT_DIR$/chat/APP" />
+      <recent name="$PROJECT_DIR$/chat/api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.allo-rapido-pizza">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/todoList/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="allo-rapido-pizza" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/allo-rapido-pizza" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.allo-rapido-pizza" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.allo-rapido-pizza" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0264706-452a-4f5c-93ad-bd9a9c1515de" name="Default" comment="" />
+      <created>1411130793671</created>
+      <updated>1411130793671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="472" width="1195" height="968" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.04518329" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15174766" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32725322" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/addressBook_jquery_nga_OK/js/address-book_origin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="222" column="24" selection-start="7917" selection-end="7917" vertical-scroll-proportion="4.3195066" vertical-offset="555" max-vertical-offset="5358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressBook_jquery_nga_OK/js/utilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="7" selection-start="3384" selection-end="3384" vertical-scroll-proportion="0.06278027" vertical-offset="1654" max-vertical-offset="2546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-book-jquery_corrigé/js/address-book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="29" selection-start="4627" selection-end="4627" vertical-scroll-proportion="0.10538117" vertical-offset="2984" max-vertical-offset="4218" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressBook_jquery_nga_OK/address-book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="14" selection-start="984" selection-end="984" vertical-scroll-proportion="0.06841505" vertical-offset="529" max-vertical-offset="1406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-book-jquery_corrigé/address-book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.58152795" vertical-offset="510" max-vertical-offset="1387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eCommerce/functions/uuid_v5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo_pizza_nga/view/top.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="40" selection-start="866" selection-end="866" vertical-scroll-proportion="0.35185185" vertical-offset="304" max-vertical-offset="1748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo-rapido-pizza/view/administration.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.107143" vertical-offset="171" max-vertical-offset="3287" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo-rapido-pizza/view/bottom.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.06666667" vertical-offset="57" max-vertical-offset="912" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo_pizza_nga/view/shop.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="0" selection-end="5718" vertical-scroll-proportion="0.08888889" vertical-offset="0" max-vertical-offset="3116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo-rapido-pizza/view/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dragon Slayer_Ivan/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.06666667" vertical-offset="57" max-vertical-offset="2907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dragon Slayer_Ivan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="0" selection-end="902" vertical-scroll-proportion="-27.821428" vertical-offset="0" max-vertical-offset="931" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allo-rapido-pizza/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="0" selection-end="1235" vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/controller/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.844444" vertical-offset="7562" max-vertical-offset="8417" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eCommerce/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/user_manager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="8" selection-start="7189" selection-end="7189" vertical-scroll-proportion="2.4444444" vertical-offset="1957" max-vertical-offset="4294" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/APP/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/view/top.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1444" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/view/signup.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/view/home.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="30.535715" vertical-offset="855" max-vertical-offset="2033" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="431" selection-end="944" vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="817" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/dragon_manager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.714287" vertical-offset="1140" max-vertical-offset="3325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/user.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/character_manager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="55" selection-start="724" selection-end="724" vertical-scroll-proportion="71.35714" vertical-offset="2492" max-vertical-offset="3325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/dragon.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="414" selection-end="414" vertical-scroll-proportion="-12.214286" vertical-offset="0" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragonsslayer_MVC_Ivan/model/character.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/ajax_codeIvan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="53" selection-start="282" selection-end="282" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/test_jquery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/test_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="525" selection-end="525" vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/coursAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="742" selection-end="742" vertical-scroll-proportion="0.43035108" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressBook_jquery_nga_OK/js/address-book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="71" selection-start="2330" selection-end="2330" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="4560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/js/main_jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1558" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/coursAjax_Jquery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="289" column="0" selection-start="7859" selection-end="7859" vertical-scroll-proportion="1.6222222" vertical-offset="4256" max-vertical-offset="5852" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/API/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="285" selection-end="285" vertical-scroll-proportion="0.34663627" vertical-offset="0" max-vertical-offset="877" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/APP/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="26" selection-start="4569" selection-end="4569" vertical-scroll-proportion="0.7558011" vertical-offset="3249" max-vertical-offset="4313" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/API/controller/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="696" selection-end="696" vertical-scroll-proportion="0.5632839" vertical-offset="0" max-vertical-offset="1197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/API/model/UserModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="147" selection-end="147" vertical-scroll-proportion="0.1949829" vertical-offset="0" max-vertical-offset="3724" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_jquery/ajax_codeIvan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.11823204" vertical-offset="273" max-vertical-offset="1178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/API/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tchat/APP/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="44" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="3458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/APP/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="38" selection-start="555" selection-end="555" vertical-scroll-proportion="-11.535714" vertical-offset="57" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/APP/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="35" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.7372781" vertical-offset="802" max-vertical-offset="1767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tchat/ajaxCours.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="99" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/Cours-master/Namespaces/vendor/OneLibrary/AmazingClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="306" selection-end="306" vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/Cours-master/Namespaces/vendor/AnotherLibrary/AmazingClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/Cours-master/Namespaces/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="205" selection-end="205" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFirstSymfoProject/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFirstSymfoProject/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/courssymfony.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="19" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.82011837" vertical-offset="409" max-vertical-offset="1463" />
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,143 @@
+
+.connection input{
+		display: block;
+}
+
+.keepActive{
+		display:inline;
+}
+
+.button-connection{
+		margin:1.5rem 0;
+}
+
+.bandeAnnonce img {
+		width: 10%;
+		float: left;
+}
+.bandeAnnonce {
+		overflow: hidden;
+		height: 5.625rem ;
+}
+
+.connection {
+		width:60%;
+		float:left;
+}
+
+.email{
+		width:40%;	
+}
+
+.password{
+		width:35%;	
+}
+
+.inscription {
+		width: 90%;
+		margin: 2rem auto ;
+}
+
+.coordonnees label {
+		width:30%;
+		display: inline-block;
+}
+
+.coordonnees, .CV-auteur {
+	    display: inline-block;
+	    vertical-align: top;
+	    text-align: justify;
+}
+
+.coordonnees {
+	    width: 50%;
+	    margin-right: 25%;
+}
+.coordonnees input[type="submit"]{
+	margin-bottom: 2rem ;
+}
+
+.CV-auteur { 
+	    width: 22%;	    
+	    box-shadow: 0 0.5rem 0.5rem #1c1a19;
+	    border-radius: 0.6rem;
+	    padding: 0.8rem;	   
+	    font-size: 0.8rem;
+}
+
+.CV-auteur img {
+    	margin-right: 0.1rem;
+    	text-align: center;
+}
+
+.CV-auteur img : hover {
+    	color :;
+}
+
+.CV-auteur a {
+    	text-decoration: none;
+    	width:5%;
+}
+
+.CV-auteur p {
+    	font-size: 0.8rem ;
+}
+.photo_tycon, .social-links {
+		text-align: center;
+}
+
+.photo_tycon img {
+    	border-width: 0.1rem ;
+    	border-style:  solid ; 
+}
+
+.inscription input{
+		padding: 0.2rem 0.2rem 0.2rem 1rem;
+}
+
+.inscription input[type="submit"] {
+		padding: 0.2rem 0.5rem ;
+		background: rgb(1,215,88) ;
+		border-radius: 0.6rem 0 ;
+		margin-top: 2rem;
+}
+
+.nav-footer {	
+	    width: 60%;
+	    margin: 2rem auto;	
+}
+
+.nav-footer ul {
+   	 list-style-type: none;
+}
+
+.nav-footer li {
+	    display: inline-block;
+	    margin-right: 2%;	
+}
+
+.nav-footer a {	
+	    font-size: 1rem;	    
+	    padding: 0.3rem 0.8rem;
+	    text-decoration: none;				
+}
+
+
+
+p {
+		margin: 0.5rem;
+}
+
+a {
+		text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+

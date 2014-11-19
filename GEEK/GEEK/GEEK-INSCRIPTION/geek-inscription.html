@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>Geekstar/Inscription</title>
+		<link rel="stylesheet" href="css-geek-inscription/reset.css"/>
+		<link rel="stylesheet" href="font-geek-inscription/font.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/foundation-icon.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/base.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/layout.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/modules.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/states.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/theme.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/responsive-61.25rem.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/responsive-36.5rem.css"/>
+		<link rel="stylesheet" href="css-geek-inscription/responsive-28.5rem.css"/>
+		<!--HTML5 shim , for IE6-8 , support of HTML5 elements-->
+		<!--[if lt IE9]>
+		<script src="http://html5shim.goolecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+	</head>
+		<!--[if IE6]><body class="ie6 old_ie"><![endif]-->
+		<!--[if IE7]><body class="ie7 old_ie"><![endif]-->
+		<!--[if IE8]><body class="ie8"><![endif]-->
+		<!--[if IE9]><body class="ie9"><![endif]-->
+		<!--[if !IE9]><!--><body><!--><![endif]-->
+
+	<body>		
+		
+		<header id="header">
+			
+			<div id="title-site">
+				<h1> Geekstar </h1>
+			</div>			
+
+			<div class="connection">
+				<p class="connection email">
+					<label for="email" class="email"> Address email or téléphone :</label>		
+					<input type="email" name="email"></input>					
+					<input class="keepActive" type="checkbox" name="keepActive" value="oui"></input>
+					<label type ="text" name="keepActive">Keep the session active ? </label>
+					
+				</p>			
+				<p class="connection password">
+					<label for=" password"> Password :</label>							
+					<input type="password" name="pwd"></input>				
+					<a name="forgetPwd" value="oui">Forget your password ? </a>					
+				</p><br>
+				<p>
+					<input class="button" type="button" name="button-connection" value="connection"></input>
+				</p>
+			</div>
+		</header>
+
+		<div class="bandeAnnonce">
+			<img src="img-geek-inscription/img.jpg" />	<img src="img-geek-inscription/img1.jpg" />
+			<img src="img-geek-inscription/img2.jpg" /> <img src="img-geek-inscription/img3.jpg" />
+			<img src="img-geek-inscription/img4.jpg" />	<img src="img-geek-inscription/img5.jpg" />
+			<img src="img-geek-inscription/img6.jpg" />	<img src="img-geek-inscription/img7.jpg" />
+			<img src="img-geek-inscription/img8.jpg" />	<img src="img-geek-inscription/img9.jpg" />
+			<img src="img-geek-inscription/img10.jpg"/> <img src="img-geek-inscription/img11.jpg" />
+			<img src="img-geek-inscription/img12.jpg"/>	<img src="img-geek-inscription/img13.jpg" />
+			<img src="img-geek-inscription/img14.jpg"/>	<img src="img-geek-inscription/img15.jpg" />
+			<img src="img-geek-inscription/img16.jpg"/>	<img src="img-geek-inscription/img17.jpg" />
+			<img src="img-geek-inscription/img18.jpg"/>	<img src="img-geek-inscription/img19.jpg" />
+			<img src="img-geek-inscription/img20.jpg"/> <img src="img-geek-inscription/img21.jpg"/>
+		</div>
+
+		<section class="inscription">
+
+			<article class="coordonnees">
+
+				<form action="index.php" method="POST" >		
+					<p>
+						<label for  = " firstName " > Nom : </label>
+						<input type = " text " name="firstName" value="" placeholder="Nom"/>
+					</p>		
+					<p>
+						<label for  = " lastName " > Prénom  : </label>
+						<input type = " text " name = " lastName " value ="" placeholder="Prénom" />
+					</p>
+					<p>
+						<label for  = " email " > Email  : </label>
+						<input type="email" name="email" value=""  placeholder="Email"/>		
+					</p>
+					<p>
+						<label for  = "confirm " ></label>
+						<input type="email" name="emailConfirm" value=""  placeholder="Confirmer email"/>
+					</p>
+					<p>
+						<label for  = " password " > Password  : </label>
+						<input type="password" name="pwd" value=""  placeholder="Password"/>		
+					</p>
+					<p>
+						<label for  = " dateNaissance " > Date de naissance : </label>
+						<input type = "date" name="dateNaiss" placeholder = " jj/mm/aaaa " />	
+						<label for  = " dateNaissance " ><a href="#"> Why ?  </a></label>			
+					</p>
+					<p>
+						<label for  = " Civility " > Civility  : </label>
+						Mademoiselle <input type="radio" name="civility" valeur="miss"/>
+						Madame <input type="radio" name="civility" valeur="madam"/>
+						Monsieurr <input type="radio" name = "civility" valeur="mister"/>			
+					</p>
+					<p>
+						<input type="submit" name="sentForm" value="Envoyer" />				
+					</p>
+				</form>						
+						
+				<p><a href="http://localhost/MINI_CHAT/chat.php"> Créer un blog privé </a></p>									
+				<p><a href="#">Développeur</a></p>									
+
+			</article>
+		
+
+			<aside class="CV-auteur">
+				
+					<a href="#" target="_blank"><h4>A PROPOS DE L'AUTEUR</h4></a>
+					
+					<div class="photo_tycon">
+						<img src="img-geek-inscription/tycon.png" alt="tycon" />
+					</div>
+					
+					<p>Laisse-moi le temps de me présenter : je m'appelle Tycon, je suis né le 05 juin 2014.</p>
+					
+	                <p>Ma mamie dit que je suis le plus malin dans la famille. C'est pourquoi, aujourd'hui, j'ai décidé d'écrire ma biographie afin que tout le monde sache qui je suis réellement.</p>					
+					
+					<div class="social-links">
+						<a href="https://fr-fr.facebook.com/">
+							<img src="img-geek-inscription/facebook.png" alt="Facebook" /></a>
+						<a href="https://twitter.com/?lang=fr">
+							<img src="img-geek-inscription/twitter.png" alt="Twitter" /></a>
+						<a href="http://vimeo.com/user4730183">
+							<img src="img-geek-inscription/vimeo.png" alt="Vimeo" /></a>
+						<a href="https://www.flickr.com/">
+							<img src="img-geek-inscription/flickr.png" alt="Flickr" /></a>
+						<a href="http://www.nice.fr/Flux-RSS">
+							<img src="img-geek-inscription/rss.png" alt="RSS" />
+						</a>
+					</div>					
+					
+				</aside>		
+		</section>		
+		
+		<hr>
+		<footer >
+			<nav class="nav-footer">
+				<ul>
+					<li><a class="links" href="http://localhost/BLOG/index.php">Blog</a></li>					
+					<li><a class="links" href="#">Need help ?</a></li>
+					<li><a class="links" href="#">Terms of use</a></li>
+				</ul>
+			</nav>
+		</footer>
+		
+					
+	</body>
+</html>
+

@@ -1,0 +1,56 @@
+<?php
+/*
+************************************************************************************
+
+Model :
+
+Ce fichier ne contiendra que des fonctions. Le modèle a pour but de gérer l'organisation des données. Chacune de ces fonctions
+effectuera une action bien précise. Vous ne pourrez effectuer des requêtes SQL que dans ces fonctions ! Le contrôleur et la vue
+ne devront contenir aucun appel à MySQL
+
+*******************************************************************************
+*/
+
+?>
+
+<?php
+
+function add($title,$author)
+
+{
+	$myconnect1= new mysqli("localhost" ,"3wa", "troiswa","library");
+    $requete = 'INSERT INTO books (book_title, author_name)
+                    VALUES ("' . $title.'","' . $author.'")';
+    $myconnect1->query($requete);
+}
+
+function modify($index)
+{
+	$myconnect1= new mysqli("localhost" ,"3wa", "troiswa","library");
+    $requete ='SELECT * FROM books WHERE book_id=' .$index;
+    $recupsArray = $myconnect1->query($requete) ;
+    $lineArray =  $recupsArray->fetch_array() ;
+    $bookTitle = $lineArray[1] ;// j'ai besoin que book_title
+    $authorName = $lineArray[2] ;// j'ai besoin que author_name
+    return $bookTitle;
+    return  $authorName ;
+}
+
+function update($title ,$author)
+{
+	$myconnect1= new mysqli("localhost" ,"3wa", "troiswa","library");
+    $requeteMAJ =
+        'UPDATE books SET       book_title = "'.$title.'" ,
+                                author_name= "'.$author.'"
+                      WHERE     book_title = "'.$bookTitle.'"
+                                AND author_name = "'. $authorName.'"';
+    $myconnect1->query($requeteMAJ) ;
+}
+
+function delete($index)
+{
+	$myconnect1= new mysqli("localhost" ,"3wa", "troiswa","library");
+    $requete = 'DELETE FROM books WHERE book_id ='.$index ;
+    $myconnect1->query($requete) ;
+}
+?>

@@ -1,0 +1,24 @@
+﻿body {
+padding:50px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+margin: auto;
+width: 800px;
+}
+#conteneur {
+text-align: left;
+width: 100%;
+}
+form label {
+display: block;
+width: 100px;
+float: left;
+}
+div .erreur {
+color: red;
+}
+
+ 
+           
+
+

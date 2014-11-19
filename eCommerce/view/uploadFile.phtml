@@ -1,0 +1,33 @@
+
+<?php
+    // Si on a bien envoyé le fichier
+    if (isset($_POST['action']) && $_POST['action'] == "fileSend")
+    {
+        // chercher la position de la derniere occurence ???
+        $extensionPosition = strrpos($_FILES['myFile']['name'], '.');
+
+        //savoir l'extension du fichier
+        $extension = substr($_FILES['myFile']['name'], $extensionPosition + 1);
+
+        // Si le fichier a bien été déplacé
+        if (move_uploaded_file($_FILES['myFile']['tmp_name'], 'img/messages/' . $productId . '.' . $extension))
+        {
+            echo '<p>Le fichier a bien été envoyé</p>';
+        }
+}
+?>
+
+<form name ="myForm" action ="" enctype="multipart/form-data" method="post">
+    <input name ="myFile" type ="file" />
+    <input type ="submit"value ="Envoyer"/>
+
+</form>
+
+<?php
+
+//move_uploaded_file ($_FILES["myFile"]["tmp_name"] ,"leNomJeVeux" ) ; ok
+//move_uploaded_file($_FILES["myFile"]["tmp_name"],"../../hello/leNomJeVeux");sort2crans
+//move_uploaded_file($_FILES["myFile"]["tmp_name"],"../model/leNomJeVeux");//sort1cran
+
+?>
+

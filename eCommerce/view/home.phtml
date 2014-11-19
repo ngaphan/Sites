@@ -1,0 +1,35 @@
+<!-- view/home.phtml -->
+
+
+<div class="clearfix"></div>
+
+<div class="page-header">
+  <h2 id="container">Categories</h2>
+</div>
+
+<div class="col-md-4">
+  <h3>TV</h3>
+  <div class="list-group">
+    <?php foreach ($produits as $produit): ?>
+      <a href="index.php?action=dragonSelect&refProduit=<?= $produits['refProduit'] ?>" class="list-group-item<?php if($produits['refProduit'] == $_SESSION['selectedRefProduit']): ?> active<?php endif ?>"><?= $produits['nomProduit'] ?></a>
+    <?php endforeach ?>
+  </div>
+</div>
+
+<div class="col-md-4">
+  <h3>Ordinateurs</h3>
+    <div class="list-group">
+        <?php foreach ($produits as $produit): ?>
+            <a href="index.php?action=dragonSelect&refProduit=<?= $produits['refProduit'] ?>" class="list-group-item<?php if($produits['refProduit'] == $_SESSION['selectedRefProduit']): ?> active<?php endif ?>"><?= $produits['nomProduit'] ?></a>
+        <?php endforeach ?>
+    </div>
+</div>
+
+<div class="col-md-4">
+  <h3>Telephones</h3>
+    <div class="list-group">
+        <?php foreach ($produits as $produit): ?>
+            <a href="index.php?action=dragonSelect&refProduit=<?= $produits['refProduit'] ?>" class="list-group-item<?php if($produits['refProduit'] == $_SESSION['selectedRefProduit']): ?> active<?php endif ?>"><?= $produits['nomProduit'] ?></a>
+        <?php endforeach ?>
+    </div>
+</div>

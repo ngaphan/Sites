@@ -1,0 +1,86 @@
+<?php
+/*
+******************************************************************************
+
+La vue
+
+La vue contient le code xHTML. C'est la seule partie qui doit en contenir. Vous pouvez à la limite faire quelques echo depuis le
+contrôleur, mais pour du déboguage ou l'affichage d'erreurs. Sinon, ce sera la vue qui s'en chargera. Elle s'occupe donc de
+l'interface homme / machine.
+
+La vue est un moteur de templates, dans le sens où logique du code et affichage sont séparés. Le code PHP doit être très limité
+dans ce fichier. Personnellement, je n'emploie que des if, foreach et des echo dans la majorité des cas
+
+********************************************************************************/
+
+?>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Debut MVC </title>
+    <link rel="stylesheet" href="//ig-css-reset.googlecode.com/git/reset.css">
+    <link rel="stylesheet" href="lib.css">
+</head>
+
+<body>
+    <section>
+
+        <header><h1> My Library </h1></header>
+
+        <table>
+            <thead>
+                <tr>
+                    <th> id     </th>
+                    <th> Titre  </th>
+                    <th> Auteur </th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php
+                //$myconnect1 = new mysqli("localhost" , "3wa" , "troiswa" ,"library");
+                    $booksObj = $myconnect1->query('SELECT * FROM books');
+                    while($lineArray = $booksObj->fetch_array())
+                    {  echo
+
+                        '<tr><td>' . $lineArray['book_id'] .'</td>'
+                        .'<td>' . $lineArray['book_title'] .'</td>'
+                        .'<td>' . $lineArray['author_name'] .'</td>'
+                        .'<td><a href = "index.php?action=modif&bookIndex=                                                 '.$lineArray['book_id'].'"> Modifer </a></td>'
+                        .'<td><a href = "index.php?action=del&bookIndex=
+                                       '.$lineArray['book_id'].'">Supprimer</a></td>'
+                        .'</tr>';
+                    }
+                ?>
+            </tbody>
+
+            <?php
+                 require_once('model.phtml') ;
+            ?>
+
+        </table>
+
+
+
+
+    <form method="post" action="index.php">
+        <p>
+            <label for ="title" > Titre : </label>
+            <input type="text" name="title"  value=""/>
+        </p>
+
+        <p> <label for ="author" > Auteur : </label>
+            <input type="text" name="author"  value=""/>
+        </p>
+
+        <input type="submit" value="AJOUTER" />
+        <input type="hidden" name="action" value="add" />
+
+    </form>
+
+</section>
+
+
+</body>
+</html>

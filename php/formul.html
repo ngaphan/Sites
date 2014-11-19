@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta charset="utf-8"/>
+    <title> Mon premier site </title>
+    <link rel="stylesheet" href="formul.css"/>
+</head>
+
+
+<body>
+
+<header>
+
+    <h1>Mon premier site</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.php?menu=accueil">Acceuil</a></li>
+            <li><a href="index.php?menu=portfolio">Portfolio</a></li>
+            <li><a href="index.php?menu=contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <hr>
+
+</header>
+
+<section>
+
+<h1 >Carnet d'address</h1>
+
+<hr>
+
+<form action="index.php?menu=contact" method="post">
+
+<label> Civilite</label>
+
+<select name="civility" >
+        <option name="Mme" checked> Madame</option>
+        <option name="M"> Monsieur</option>
+</select>
+
+<br>
+
+<label> Nom</label>
+<input ></input>
+
+<br>
+<label> Prenom</label>
+<input ></input>
+
+<textarea name="message" placeholder="Message">Message</textarea>
+
+<input type="hidden" name="action" value="formContactSend" />
+
+<br><br>
+
+<input type="button" value="Enregistrer" />  </input>
+
+    </form>
+
+</body>
+
+</html>
